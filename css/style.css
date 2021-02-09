@@ -1,0 +1,13 @@
+body{
+  margin: 120px 0 0 50px;
+  font-family: 'Comfortaa', cursive;
+  color: #F08080;
+  background-image: url(https://www.fredhutch.org/content/dam/www/homepage/formlette/2020-March/formlette-covid-19-desktop-3-2020.jpg);
+  background-repeat: no-repeat;
+}
+h1{
+  width: 20%;
+}
+section{
+  padding-top: 25px;
+}
